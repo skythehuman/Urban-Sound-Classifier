@@ -86,7 +86,7 @@ def get_models():
 
 # ── Sidebar ──────────────────────────────────────────────────────────
 with st.sidebar:
-    st.title("Urban Sound Classifier")
+    st.title("🎙️ Urban Sound Classifier")
     st.caption("17-class urban noise classification using ResNet + feature ensemble")
     st.divider()
 
@@ -366,8 +366,8 @@ elif page == "Model Info":
     st.divider()
     st.subheader("Data Sources")
     st.markdown("""
-- [UrbanSound8K](https://urbansounddataset.weebly.com/) — Salamon et al. (2014)
-- [ESC-50](https://github.com/karolpiczak/ESC-50) — Piczak (2015)
-- [FSDKaggle2019](https://zenodo.org/record/3612637) — Fonseca et al. (2019)
+- [UrbanSound8K](https://urbansounddataset.weebly.com/) - Salamon et al. (2014)
+- [ESC-50](https://github.com/karolpiczak/ESC-50) - Piczak (2015)
+- [FSDKaggle2019](https://zenodo.org/record/3612637) - Fonseca et al. (2019)
 - [Urban Sound](https://www.aihub.or.kr/) - AI Hub, Ministry of Science and ICT
     """)
