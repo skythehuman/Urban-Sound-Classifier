@@ -7,10 +7,10 @@ Browser-based urban noise classification using a 4-fold ensemble of ResNet model
 ## Features
 
 - **Audio upload** with waveform playback
-- **Feature visualization** — Mel-spectrogram and MFCC
-- **Ensemble inference** — 8 models (4 Mel + 4 MFCC) averaged
+- **Feature visualization** : Mel-spectrogram and MFCC
+- **Ensemble inference** : 8 models (4 Mel + 4 MFCC) averaged
 - **Top-k predictions** with confidence bar chart
-- **Noise taxonomy** — 5 categories, 17 subcategories
+- **Noise taxonomy** : 5 categories, 17 subcategories
 - **Model architecture** and performance summary
 
 ## Quick Start
