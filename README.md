@@ -1,6 +1,6 @@
 # Urban Sound Classifier
 
-Browser-based urban noise classification using a 4-fold ensemble of ResNet models. Upload a WAV file and get instant classification across 17 urban noise types.
+Browser-based urban noise classification using a 4-fold ensemble of ResNet models. Upload a WAV file and get instant classification across 17 urban noise types. This work implements the outcomes from doctoral dissertation research.
 
 **[Try Demo](https://urban-sound-classifier.streamlit.app)**
 
